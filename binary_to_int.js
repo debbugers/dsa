@@ -1,3 +1,6 @@
+//Convert binary to Integer value
+
+
 var bin = [1,0,1,1,0];
 bin = bin.reverse();
 var num = 0;
